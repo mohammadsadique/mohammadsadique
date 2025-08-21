@@ -10,7 +10,7 @@
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)
 
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=jquery,html,css,angular,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=jquery,html,css,angular,bootstrap,vue)
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,postman)
